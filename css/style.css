@@ -1,0 +1,21 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  * {
+    box-sizing: inherit;
+  }
+  
+  /* adjust typography defaults */
+  body {
+    font-family: 'Kaushan Script', cursive;
+  }
+  
+  html{
+    height:100%;
+  }
+ 
